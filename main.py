@@ -4,3 +4,4 @@
  
 # from x import y
 
+print "testing"
