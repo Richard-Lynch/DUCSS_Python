@@ -30,6 +30,7 @@ if __name__ == "__main__": #treats this as main? maybe i think
     print ("somte_string: ", some_string)
     print ("split some_string2: ", some_string2.split())
     print ("some string[2:]", some_string2[2:])
+    print ("some string[-2:]", some_string2[-2:])
     print ("some string[-1]", some_string2[-1])
     print ("some string[-2]", some_string2[-2])
     print ("some string[::-1]", some_string2[::-1]) #-1 is step
